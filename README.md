@@ -38,9 +38,9 @@ As the size of the whole datasets is so huge and exceeds the file size limitatio
 
 Here, we provide all the clustering results of all tests in this work. The calculations of different metrics based on the clustering results are also provided. Please click the hyperlinks below for downloading.
 
-[Download clustering results]()
+Clustering results:
 
-[Download calculation results]()
+Calculation results: Accuracy([Dataset #1](https://raw.githubusercontent.com/GaoLabXDU/MultiOmicsIntegrationStudy/master/Accuracy_Dataset%20%231.xlsx), [Dataset #3](https://raw.githubusercontent.com/GaoLabXDU/MultiOmicsIntegrationStudy/master/Accuracy_Dataset%20%233.xlsx)), [Robustness](https://raw.githubusercontent.com/GaoLabXDU/MultiOmicsIntegrationStudy/master/Robustness.xlsx), [Computational Effeciency](https://raw.githubusercontent.com/GaoLabXDU/MultiOmicsIntegrationStudy/master/Computational%20Efficiency.xlsx).
 
 
 
