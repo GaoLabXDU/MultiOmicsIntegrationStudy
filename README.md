@@ -34,31 +34,31 @@ As the size of the whole datasets exceeds the file size limitation of GitHub, we
 
 | Datasets                    | figshare | Dropbox | OneDrive |
 | :-------------------------- | -------- | ------- | -------- |
-| Dataset #1 BRCA Complete    | Link     | Link    | Link     |
-| Dataset #1 BRCA Significant | Link     | Link    | Link     |
-| Dataset #1 COAD Complete    | Link     | Link    | Link     |
-| Dataset #1 COAD Significant | Link     | Link    | Link     |
-| Dataset #1 KIRC Complete    | Link     | Link    | Link     |
-| Dataset #1 KIRC Significant | Link     | Link    | Link     |
-| Dataset #1 LUAD Complete    | Link     | Link    | Link     |
-| Dataset #1 LUAD Significant | Link     | Link    | Link     |
-| Dataset #1 LUSC Complete    | Link     | Link    | Link     |
-| Dataset #1 LUSC Significant | Link     | Link    | Link     |
-| Dataset #2 BRCA 0.5         | Link     | Link    | Link     |
-| Dataset #2 BRCA 1           | Link     | Link    | Link     |
-| Dataset #2 BRCA 2           | Link     | Link    | Link     |
-| Dataset #2 BRCA 3           | Link     | Link    | Link     |
-| Dataset #2 BRCA 4           | Link     | Link    | Link     |
-| Dataset #2 COAD 0.5         | Link     | Link    | Link     |
-| Dataset #2 COAD 1           | Link     | Link    | Link     |
-| Dataset #2 COAD 2           | Link     | Link    | Link     |
-| Dataset #2 COAD 3           | Link     | Link    | Link     |
-| Dataset #2 COAD 4           | Link     | Link    | Link     |
-| Dataset #3 BRCA Complete    | Link     | Link    | Link     |
-| Dataset #3 BRCA Significant | Link     | Link    | Link     |
-| Dataset #3 COAD Complete    | Link     | Link    | Link     |
-| Dataset #3 COAD Significant | Link     | Link    | Link     |
-| Dataset #3 Pan-cancer       | Link     | Link    | Link     |
+| Dataset #1 BRCA Complete    | [Link](https://figshare.com/s/2773784f1d94260a4a2e)     | Link    | Link     |
+| Dataset #1 BRCA Significant | [Link](https://figshare.com/s/bb469b06fe969fa34b64)     | Link    | Link     |
+| Dataset #1 COAD Complete    | [Link](https://figshare.com/s/7cd48631c14df2046b16)     | Link    | Link     |
+| Dataset #1 COAD Significant | [Link](https://figshare.com/s/c21e5bd52f0838d91674)     | Link    | Link     |
+| Dataset #1 KIRC Complete    | [Link](https://figshare.com/s/030c22d72ed78fe92770)     | Link    | Link     |
+| Dataset #1 KIRC Significant | [Link](https://figshare.com/s/b4b0438fa2580007b88c)     | Link    | Link     |
+| Dataset #1 LUAD Complete    | [Link](https://figshare.com/s/1449ae077871f836891e)     | Link    | Link     |
+| Dataset #1 LUAD Significant | [Link](https://figshare.com/s/1e7ad8f03248f74fb572)     | Link    | Link     |
+| Dataset #1 LUSC Complete    | [Link](https://figshare.com/s/e3cdad2d2f8f1d0f0e1f)     | Link    | Link     |
+| Dataset #1 LUSC Significant | [Link](https://figshare.com/s/55694443ea5bdd613293)     | Link    | Link     |
+| Dataset #2 BRCA 0.5         | [Link](https://figshare.com/s/2280a954c5d2b911add6)     | Link    | Link     |
+| Dataset #2 BRCA 1           | [Link](https://figshare.com/s/19aa8c5c419bcd29d3b5)     | Link    | Link     |
+| Dataset #2 BRCA 2           | [Link](https://figshare.com/s/5927110c594f5f6b97f8)     | Link    | Link     |
+| Dataset #2 BRCA 3           | [Link](https://figshare.com/s/35a8738724385f490f9a)     | Link    | Link     |
+| Dataset #2 BRCA 4           | [Link](https://figshare.com/s/8e668698a5712a81f238)     | Link    | Link     |
+| Dataset #2 COAD 0.5         | [Link](https://figshare.com/s/5416db4edfe9081e7554)     | Link    | Link     |
+| Dataset #2 COAD 1           | [Link](https://figshare.com/s/02a17f5b62a979c3223b)     | Link    | Link     |
+| Dataset #2 COAD 2           | [Link](https://figshare.com/s/6462b2230c94299666ef)     | Link    | Link     |
+| Dataset #2 COAD 3           | [Link](https://figshare.com/s/dc551de7ca8a521ae4d4)     | Link    | Link     |
+| Dataset #2 COAD 4           | [Link](https://figshare.com/s/eb3ae8f8770ec48f925b)     | Link    | Link     |
+| Dataset #3 BRCA Complete    | [Link](https://figshare.com/s/b0d8c68133e8afa8b880)     | Link    | Link     |
+| Dataset #3 BRCA Significant | [Link](https://figshare.com/s/c472f60152dc55f01634)     | Link    | Link     |
+| Dataset #3 COAD Complete    | [Link](https://figshare.com/s/0dd604647efc5e7e0d49)     | Link    | Link     |
+| Dataset #3 COAD Significant | [Link](https://figshare.com/s/8b92e955ead4c5a187fe)     | Link    | Link     |
+| Dataset #3 Pan-cancer       | [Link](https://figshare.com/s/d2658236fe0dcf3ccd10)     | Link    | Link     |
 
 
 
