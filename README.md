@@ -6,11 +6,11 @@ Computational integrative analysis has become a significant approach in the data
 
 ### Key points
 
+- We constructed three classes of benchmarking datasets of five cancers in TCGA by considering all the eleven combinations of four multi-omics data types.
+- We conducted a comprehensive evaluation of five representative integration methods for cancer subtyping in terms of accuracy measured by combining both clustering accuracy and clinical significance, robustness, and computational efficiency.
 - Refuting the widely held intuition that incorporating more types of omics data always helps produce better results, our analyses showed that there are situations where integrating more types of omics data negatively impacts the performance of the integration methods.
-
 - The influence of different omics data types varies in cancer subtyping.
-
-- Our analyses suggested several effective combinations of omics data types for most cancers under our studies (e.g. mRNA + CNV and mRNA + miRNA) that can indeed improve the accuracy on cancer subtyping as measured by both clustering and clinical metrics. We believe that it will be of particular interest to researchers in the practice of integrative omics data analysis.
+- Our analyses suggested several effective combinations of omics data types for most cancers under our studies (e.g. mRNA + CNV and mRNA + miRNA) that can indeed improve the accuracy on cancer subtyping.
 
 
 
@@ -39,8 +39,8 @@ As the size of the whole datasets exceeds the file size limitation of GitHub, we
 Here, we provide all the results of different methods in this work. The calculations of different metrics based on the clustering results are also provided. Please click the hyperlinks below for downloading.
 
 Method Results:
-Dataset #1 ([Complete Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%231%20Complete%20%20Datasets.rar),  [Significant Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%231%20Significant%20Datasets.rar))
-Dataset #2 ([Noise Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%232%20Noise%20Datasets.rar))
+Dataset #1 ([Complete Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%231%20Complete%20%20Datasets.rar),  [Significant Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%231%20Significant%20Datasets.rar)), 
+Dataset #2 ([Noise Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%232%20Noise%20Datasets.rar)), 
 Dataset #3 ([Gold Standard Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%233%20Gold%20Standard%20Datasets.rar), [Pan-cancer Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%233%20Pancancer%20Datasets.rar))
 
 Calculation Results: Accuracy ([Dataset #1](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Accuracy_Dataset%20%231.xlsx), [Dataset #3](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Accuracy_Dataset%20%233.xlsx)), [Robustness](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Robustness.xlsx), [Computational Effeciency](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Computational%20Efficiency.xlsx).
