@@ -30,7 +30,7 @@ For the details of the **Data pre-processing** and **Datasets construction**, pl
 
 ### Availability of datasets
 
-As the size of the whole datasets exceeds the file size limitation of GitHub, we are so sorry that we can not upload the datasets to GitHub. We have uploaded the datasets to figshare, Dropbox, and OneDrive. We will push the download links on this page as soon as possible. Before this, please send an email to duanran9013@126.com, and we will send the datasets to you as soon as we receive the email.
+As the size of the whole datasets exceeds the file size limitation of GitHub, we are so sorry that we can not upload the datasets to GitHub. We have uploaded the datasets to figshare, Dropbox, and OneDrive. You can click the links in the table below to download the datasets from figshare. The sources from Dropbox and OneDrive will be available soon.
 
 | Datasets                    | figshare | Dropbox | OneDrive |
 | :-------------------------- | -------- | ------- | -------- |
