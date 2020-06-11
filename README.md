@@ -56,7 +56,7 @@ As the size of the whole datasets exceeds the file size limitation of GitHub, we
 | Dataset #2 COAD 4           | [Link](https://figshare.com/s/eb3ae8f8770ec48f925b)     | [Link](https://www.dropbox.com/s/mcb48gysb2m7p7z/Dataset%20%232%20COAD%204.rar?dl=0)    | Link     |
 | Dataset #3 BRCA Complete    | [Link](https://figshare.com/s/b0d8c68133e8afa8b880)     | [Link](https://www.dropbox.com/s/0bz6rg2itv04cgj/Dataset%20%233%20BRCA%20Complete.rar?dl=0)    | Link     |
 | Dataset #3 BRCA Significant | [Link](https://figshare.com/s/c472f60152dc55f01634)     | [Link](https://www.dropbox.com/s/55rdujg0dlyzvfx/Dataset%20%233%20BRCA%20Significant.rar?dl=0)    | Link     |
-| Dataset #3 COAD Complete    | [Link](https://figshare.com/s/0dd604647efc5e7e0d49)     | [Link](https://www.dropbox.com/s/dwkybrwe9dq3drk/Dataset%20%233%20COAD%20Complete.rar?dl=0)    | [ink     |
+| Dataset #3 COAD Complete    | [Link](https://figshare.com/s/0dd604647efc5e7e0d49)     | [Link](https://www.dropbox.com/s/dwkybrwe9dq3drk/Dataset%20%233%20COAD%20Complete.rar?dl=0)    | Link     |
 | Dataset #3 COAD Significant | [Link](https://figshare.com/s/8b92e955ead4c5a187fe)     | [Link](https://www.dropbox.com/s/krbwi7m2zav36xa/Dataset%20%233%20COAD%20Significant.rar?dl=0)    | Link     |
 | Dataset #3 Pan-cancer       | [Link](https://figshare.com/s/d2658236fe0dcf3ccd10)     | [Link](https://www.dropbox.com/s/u7kau91j38yr4l5/Dataset%20%233%20Pancancer%20Datasets.rar?dl=0)    | Link     |
 
