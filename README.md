@@ -38,9 +38,12 @@ As the size of the whole datasets exceeds the file size limitation of GitHub, we
 
 Here, we provide all the results of different methods in this work. The calculations of different metrics based on the clustering results are also provided. Please click the hyperlinks below for downloading.
 
-Clustering results:
+Method Results:
+Dataset #1 ([Complete Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%231%20Complete%20%20Datasets.rar),  [Significant Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%231%20Significant%20Datasets.rar))
+Dataset #2 ([Noise Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%232%20Noise%20Datasets.rar))
+Dataset #3 ([Gold Standard Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%233%20Gold%20Standard%20Datasets.rar), [Pan-cancer Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%233%20Pancancer%20Datasets.rar))
 
-Calculation results: Accuracy([Dataset #1](https://raw.githubusercontent.com/GaoLabXDU/MultiOmicsIntegrationStudy/master/Accuracy_Dataset%20%231.xlsx), [Dataset #3](https://raw.githubusercontent.com/GaoLabXDU/MultiOmicsIntegrationStudy/master/Accuracy_Dataset%20%233.xlsx)), [Robustness](https://raw.githubusercontent.com/GaoLabXDU/MultiOmicsIntegrationStudy/master/Robustness.xlsx), [Computational Effeciency](https://raw.githubusercontent.com/GaoLabXDU/MultiOmicsIntegrationStudy/master/Computational%20Efficiency.xlsx).
+Calculation Results: Accuracy ([Dataset #1](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Accuracy_Dataset%20%231.xlsx), [Dataset #3](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Accuracy_Dataset%20%233.xlsx)), [Robustness](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Robustness.xlsx), [Computational Effeciency](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Computational%20Efficiency.xlsx).
 
 
 
