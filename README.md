@@ -30,13 +30,13 @@ For the details of the **Data pre-processing** and **Datasets construction**, pl
 
 ### Availability of datasets
 
-As the size of the whole datasets is so huge and exceeds the file size limitation of GitHub, we are so sorry that we can not upload all the datasets to GitHub. We are now uploading the datasets to two cloud disk platforms and try our best to ensure that worldwide researchers can download them. We will push the download links on this page as soon as the upload process is done. Before this, please send an email to duanran9013@126.com, and we will send the datasets to you as soon as we receive the email.
+As the size of the whole datasets exceeds the file size limitation of GitHub, we are so sorry that we can not upload the datasets to GitHub. We have uploaded the datasets to figshare, Dropbox, and OneDrive. We will push the download links on this page as soon as possible. Before this, please send an email to duanran9013@126.com, and we will send the datasets to you as soon as we receive the email.
 
 
 
 ### Results
 
-Here, we provide all the clustering results of all tests in this work. The calculations of different metrics based on the clustering results are also provided. Please click the hyperlinks below for downloading.
+Here, we provide all the results of different methods in this work. The calculations of different metrics based on the clustering results are also provided. Please click the hyperlinks below for downloading.
 
 Clustering results:
 
