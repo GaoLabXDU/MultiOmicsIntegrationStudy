@@ -32,6 +32,34 @@ For the details of the **Data pre-processing** and **Datasets construction**, pl
 
 As the size of the whole datasets exceeds the file size limitation of GitHub, we are so sorry that we can not upload the datasets to GitHub. We have uploaded the datasets to figshare, Dropbox, and OneDrive. We will push the download links on this page as soon as possible. Before this, please send an email to duanran9013@126.com, and we will send the datasets to you as soon as we receive the email.
 
+| Datasets                    | figshare | Dropbox | OneDrive |
+| :-------------------------- | -------- | ------- | -------- |
+| Dataset #1 BRCA Complete    | Link     | Link    | Link     |
+| Dataset #1 BRCA Significant | Link     | Link    | Link     |
+| Dataset #1 COAD Complete    | Link     | Link    | Link     |
+| Dataset #1 COAD Significant | Link     | Link    | Link     |
+| Dataset #1 KIRC Complete    | Link     | Link    | Link     |
+| Dataset #1 KIRC Significant | Link     | Link    | Link     |
+| Dataset #1 LUAD Complete    | Link     | Link    | Link     |
+| Dataset #1 LUAD Significant | Link     | Link    | Link     |
+| Dataset #1 LUSC Complete    | Link     | Link    | Link     |
+| Dataset #1 LUSC Significant | Link     | Link    | Link     |
+| Dataset #2 BRCA 0.5         | Link     | Link    | Link     |
+| Dataset #2 BRCA 1           | Link     | Link    | Link     |
+| Dataset #2 BRCA 2           | Link     | Link    | Link     |
+| Dataset #2 BRCA 3           | Link     | Link    | Link     |
+| Dataset #2 BRCA 4           | Link     | Link    | Link     |
+| Dataset #2 COAD 0.5         | Link     | Link    | Link     |
+| Dataset #2 COAD 1           | Link     | Link    | Link     |
+| Dataset #2 COAD 2           | Link     | Link    | Link     |
+| Dataset #2 COAD 3           | Link     | Link    | Link     |
+| Dataset #2 COAD 4           | Link     | Link    | Link     |
+| Dataset #3 BRCA Complete    | Link     | Link    | Link     |
+| Dataset #3 BRCA Significant | Link     | Link    | Link     |
+| Dataset #3 COAD Complete    | Link     | Link    | Link     |
+| Dataset #3 COAD Significant | Link     | Link    | Link     |
+| Dataset #3 Pan-cancer       | Link     | Link    | Link     |
+
 
 
 ### Results
