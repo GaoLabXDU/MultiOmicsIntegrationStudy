@@ -77,5 +77,5 @@ Calculation Results: Accuracy ([Dataset #1](https://github.com/GaoLabXDU/MultiOm
 
 ### Contact us
 
-If you are interested in this work and have any questions or suggestions, please send an email to us (duanran9013@126.com). We will reply to you as soon as possible. Thanks for your email.
+If you are interested in this work and have any questions or suggestions, please send an email to us (duanran9013(at)126.com). We will reply to you as soon as possible. Thanks for your email.
 
