@@ -71,7 +71,7 @@ Dataset #1 ([Complete Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrati
 Dataset #2 ([Noise Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%232%20Noise%20Datasets.rar)), 
 Dataset #3 ([Gold Standard Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%233%20Gold%20Standard%20Datasets.rar), [Pan-cancer Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Method%20Results/Dataset%20%233%20Pancancer%20Datasets.rar))
 
-Calculation Results: Accuracy ([Dataset #1](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Accuracy_Dataset%20%231.xlsx), [Dataset #3](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Accuracy_Dataset%20%233.xlsx)), [Robustness](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Robustness.xlsx), [Computational Effeciency](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/raw/master/Calculation%20Results/Computational%20Efficiency.xlsx).
+Calculation Results: Accuracy ([Dataset #1](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Calculation%20Results/Accuracy_Dataset%20%231.xlsx), [Dataset #3](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Calculation%20Results/Accuracy_Dataset%20%233.xlsx)), [Robustness](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Calculation%20Results/Robustness.xlsx), [Computational Effeciency](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Calculation%20Results/Computational%20Efficiency.xlsx).
 
 
 
