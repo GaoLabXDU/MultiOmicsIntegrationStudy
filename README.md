@@ -72,14 +72,12 @@ As the size of the whole datasets exceeds the file size limitation of GitHub, we
 
 ### Results
 
-Here, we provide all the results of different methods in this work. The calculations of different metrics based on the clustering results are also provided. Please click the hyperlinks below for downloading.
+Here, we provide all the results of different methods in this work. Please click the hyperlinks below for downloading.
 
 Method Results:
 Dataset #1 ([Complete Datasets 1](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%231%20Complete%20Datasets%201.zip), [Complete Datasets 2](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%231%20Complete%20Datasets%202.zip), [Significant Datasets 1](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%231%20Significant%20Datasets%201.zip), [Significant Datasets 2](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%231%20Significant%20Datasets%202.zip)), 
 Dataset #2 Noise Datasets ([1](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%232%20Noise%20Datasets%201.zip), [2](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%232%20Noise%20Datasets%202.zip), [3](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%232%20Noise%20Datasets%203.zip)), 
 Dataset #3 ([Gold Standard Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%233%20Gold%20Standard%20Datasets.zip), [Pan-cancer Datasets](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Method%20Results/Dataset%20%233%20Pancancer%20Datasets.zip))
-
-Calculation Results: Accuracy ([Dataset #1](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Calculation%20Results/Supplementary%20File%202-Accuracy%20Dataset%231.xlsx), [Dataset #3](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Calculation%20Results/Supplementary%20File%203-Accuracy%20Dataset%233.xlsx)), [Robustness](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Calculation%20Results/Supplementary%20File%204-Robustness%20Dataset%232.xlsx), [Computational Effeciency](https://github.com/GaoLabXDU/MultiOmicsIntegrationStudy/blob/master/Calculation%20Results/Supplementary%20File%205-Computational%20Efficiency.xlsx).
 
 
 
